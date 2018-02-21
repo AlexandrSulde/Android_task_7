@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="app_name2">Авторизация</string>
+    <string name="app_name1">Контакты</string>
+    <string name="number_phone">Введите номер телефона</string>
+    <string name="number_phone2">+7(***)</string>
+    <string name="searchName">Введите имя</string>
+</resources>
